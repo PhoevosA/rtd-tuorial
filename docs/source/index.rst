@@ -43,8 +43,7 @@ Design Aims
 Installation
 ------------
 
-Check out the :doc:`GettingStarted` section for further information, including
-how to install the project.
+Check out the :doc:`GettingStarted` section for further information.
 
 .. _usage:
 
