@@ -85,7 +85,7 @@ Adding Dependencies to Parent Project
 
 To add dependencies that should be available to cross all sub-projects:
 
-1. FRom the root ``splice`` directory:
+1. From the root ``splice`` directory:
 
 .. code-block:: console
 
