@@ -64,7 +64,7 @@ Managing Dependencies
 Adding Dependencies to Sub-Projects
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-To add dependencies to individual sub-projects (api, clie or lib):
+To add dependencies to individual sub-projects (api, cli or lib):
 
 1. Navigate to the sub-project directory:
 
