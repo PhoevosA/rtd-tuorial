@@ -5,11 +5,12 @@ Welcome to SPLICE's documentation!
 
 Contents
 --------
-* :ref:`Why use SPLICE <YSPLICE>`:
+   * :ref:`Why use SPLICE <YSPLICE>`:
 
 
 
 .. _YSPLICE:
+
 Why use SPLICE
 --------------
 
