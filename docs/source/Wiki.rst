@@ -8,21 +8,29 @@ This is where we build our knowledgebase for the SPLICE project. This wiki prima
 Table of Contents
 -----------------
 
-.. toctree::
-  :maxdepth: 1 
-
 Contribution Guidelines
 ^^^^^^^^^^^^^^^^^^^^^^^
+.. toctree::
+  :maxdepth: 1
 
   GettingStarted
-  api
-  test
+  
+  
 
 Installation
 ^^^^^^^^^^^^
+.. toctree::
+  :maxdepth: 1
+
+  api
 
 Naming Standards
 ^^^^^^^^^^^^^^^^
+
+.. toctree::
+  :maxdepth: 1
+
+  test
 
 System Infrastructure
 ^^^^^^^^^^^^^^^^^^^^^
