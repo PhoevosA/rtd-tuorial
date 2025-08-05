@@ -70,7 +70,7 @@ To add dependencies to individual sub-projects (api, clie or lib):
 
 .. code-block:: console
 
-  cd splice-cli # example for CLI component
+  cd splice-cli # Example for CLI component
 
 2. Add the desired package:
 
