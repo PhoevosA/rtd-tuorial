@@ -1,34 +1,39 @@
-Usage
-=====
+Getting Started
+===============
 
-.. _installation:
+.. _setupGuide:
 
-Installation
-------------
+Splice Project Setup Guide
+==========================
 
-To use Lumache, first install it using pip:
+.. _prerequisites:
+
+Prerequisites
+-------------
+
+   * Python 3.8 or higher
+   * uv package manager
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+   curl -LsSf https://astral.sh/uv/install.sh | sh
 
-Creating recipes
-----------------
+Project Structure
+-----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
 
-.. autofunction:: lumache.get_random_ingredients
+The project consists of four main components:
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
+   * splice-api: FastAPI-based REST API service
+   * splice-cli: Command-line interface tool
+   * splice-lib: Core library package
+   * splice-pipeline: Analytics pipeline application
 
-.. autoexception:: lumache.InvalidKindError
+Project Components
+------------------
 
-For example:
+1. API Service
+^^^^^^^^^^^^^^
 
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+etc.
 
