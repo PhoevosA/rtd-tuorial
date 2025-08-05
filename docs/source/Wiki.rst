@@ -11,6 +11,21 @@ Table of Contents
 .. toctree::
   :maxdepth: 1 
 
+Contribution Guidelines
+^^^^^^^^^^^^^^^^^^^^^^^
+
   GettingStarted
   api
   test
+
+Installation
+^^^^^^^^^^^^
+
+Naming Standards
+^^^^^^^^^^^^^^^^
+
+System Infrastructure
+^^^^^^^^^^^^^^^^^^^^^
+
+Testing Guides
+^^^^^^^^^^^^^^
