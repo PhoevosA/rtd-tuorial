@@ -43,7 +43,7 @@ Design Aims
 Installation
 ------------
 
-Check out the :doc:`GettingStarted` section for further information.
+...
 
 .. _usage:
 
@@ -52,11 +52,10 @@ Usage
 ...
 
 
+Check out the wiki 
 .. toctree::
 
-   GettingStarted
-   api
-   test
+   Wiki
 
 .. note::
 
