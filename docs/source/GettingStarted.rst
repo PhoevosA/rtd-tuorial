@@ -3,7 +3,7 @@ Getting Started
 
 .. _setupGuide:
 
-Splice Project Setup Guide
+SPLICE Project Setup Guide
 --------------------------
 
 .. _prerequisites:
@@ -35,5 +35,60 @@ Project Components
 1. API Service
 ^^^^^^^^^^^^^^
 
-etc.
+To run the FAstAPI development server:
 
+.. code-block:: console
+
+  cd splice-api
+  uv run fastapi dev
+
+2. Command Line Interface (CLI)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Installation
+
+.. code-block:: console
+
+  cd splice-cli
+  uv pip install -e . 
+
+Usage
+
+.. code-block:: console
+
+  uv run splice-lib
+
+Managing Dependencies
+---------------------
+
+Adding Dependencies to Sub-Projects
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+To add dependencies to individual sub-projects (api, clie or lib):
+
+  1. Navigate to the sub-project directory:
+
+.. code-block:: console
+
+  cd splice-cli # example for CLI component
+
+  2. Add the desired package:
+
+.. code-block:: console
+
+  uv add <package-name> # Example: uv add typer
+
+The package will be automatically added to the sub-project's ``pyproject.toml`` file.
+
+Adding Dependencies to Parent Project
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+To add dependencies that should be available to cross all sub-projects:
+
+  1. FRom the root ``splice`` directory:
+
+.. code-block:: console
+
+  uv add <package-name> # Example: uv add pytest
+
+This will add the package to the parent project's ``pyproject.toml`` file.
