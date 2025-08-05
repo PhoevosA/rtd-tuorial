@@ -24,7 +24,7 @@ Project Structure
 
 The project consists of four main components:
 
-   * ``splice-api``: FastAPI-based REST API service
+   * \ ``splice-api``\: FastAPI-based REST API service
    * ``splice-cli``: Command-line interface tool
    * ``splice-lib``: Core library package
    * ``splice-pipeline``: Analytics pipeline application
