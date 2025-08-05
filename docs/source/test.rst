@@ -8,7 +8,7 @@ Splice
 
 text goes here
 
-.. codeblock:: console
+.. code-block:: console
 
   codeblock
 
