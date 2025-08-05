@@ -1,25 +1,34 @@
-Welcome to Lumache's documentation!
+Welcome to SPLICE's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`GettingStarted` section for further information, including
-how to install the project.
-
-Lumache hosts its documentation on Read the Docs.
-
-.. note::
-
-   This project is under active development.
+**SPLICE** (Scientific Platform for Life sciences data Integration, Collaboration and Exploration) is a data platform which supports the collection, storage, organisation, processing, analysis and visualisation of experimental data across research areas in life sciences. SPLICE is aimed at enhancing collaboration between researchers enabling easy alignment to FAIR data principles.
 
 Contents
 --------
 
 .. toctree::
+   index
 
-   GettingStarted
-   api
-   test
+
+Why use SPLICE
+--------------
+
+Design Aims
+-----------
+
+Installation
+------------
+
+Usage
+-----
+
+Check out the :doc:`GettingStarted` section for further information, including
+how to install the project.
+
+SPLICE hosts its documentation on Read the Docs.
+
+.. note::
+
+   This project is under active development.
+
+
