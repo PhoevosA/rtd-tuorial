@@ -12,7 +12,7 @@ Prerequisites
 -------------
 
    * Python 3.8 or higher
-   * uv package manager
+   * ``uv`` package manager
 
 .. code-block:: console
 
@@ -24,10 +24,10 @@ Project Structure
 
 The project consists of four main components:
 
-   * splice-api: FastAPI-based REST API service
-   * splice-cli: Command-line interface tool
-   * splice-lib: Core library package
-   * splice-pipeline: Analytics pipeline application
+   * ``splice-api``: FastAPI-based REST API service
+   * ``splice-cli``: Command-line interface tool
+   * ``splice-lib``: Core library package
+   * ``splice-pipeline``: Analytics pipeline application
 
 Project Components
 ------------------
