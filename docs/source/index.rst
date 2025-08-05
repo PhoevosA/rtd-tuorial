@@ -5,14 +5,11 @@ Welcome to SPLICE's documentation!
 
 Contents
 --------
-
-.. toctree::
-
-   GettingStarted
-   api
-   test
+* :ref:`Why use SPLICE <YSPLICE>`:
 
 
+
+.. _YSPLICE:
 Why use SPLICE
 --------------
 
@@ -21,6 +18,11 @@ Design Aims
 
 Installation
 ------------
+.. toctree::
+
+   GettingStarted
+   api
+   test
 
 Usage
 -----
