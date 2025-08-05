@@ -66,13 +66,13 @@ Adding Dependencies to Sub-Projects
 
 To add dependencies to individual sub-projects (api, clie or lib):
 
-  1. Navigate to the sub-project directory:
+1. Navigate to the sub-project directory:
 
 .. code-block:: console
 
   cd splice-cli # example for CLI component
 
-  2. Add the desired package:
+2. Add the desired package:
 
 .. code-block:: console
 
@@ -85,7 +85,7 @@ Adding Dependencies to Parent Project
 
 To add dependencies that should be available to cross all sub-projects:
 
-  1. FRom the root ``splice`` directory:
+1. FRom the root ``splice`` directory:
 
 .. code-block:: console
 
