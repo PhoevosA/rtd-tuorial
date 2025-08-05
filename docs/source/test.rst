@@ -1,7 +1,5 @@
 Splice
 ======
 
-.. _testsplice:
-
-What is splice?
----------------
+.. autosummary::
+   :toctree: generated
