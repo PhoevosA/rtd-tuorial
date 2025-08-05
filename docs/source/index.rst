@@ -7,7 +7,10 @@ Contents
 --------
 
 .. toctree::
-   index
+
+   GettingStarted
+   api
+   test
 
 
 Why use SPLICE
@@ -31,8 +34,4 @@ SPLICE hosts its documentation on Read the Docs.
 
    This project is under active development.
 
-.. toctree::
 
-   GettingStarted
-   api
-   test
