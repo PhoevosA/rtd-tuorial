@@ -55,6 +55,7 @@ Usage
 Check out the wiki 
 
 .. toctree::
+   :maxdepth: 1
 
    Wiki
 
