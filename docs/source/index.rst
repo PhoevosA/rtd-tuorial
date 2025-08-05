@@ -20,6 +20,6 @@ Contents
 
 .. toctree::
 
-   usage
+   Getting Started
    api
    test
