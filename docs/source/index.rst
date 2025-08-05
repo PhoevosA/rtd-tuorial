@@ -20,6 +20,6 @@ Contents
 
 .. toctree::
 
-   Getting Started
+   GettingStarted
    api
    test
