@@ -12,7 +12,8 @@ Prerequisites
 -------------
 
    * Python 3.8 or higher
-   * uv package managerL
+   * uv package manager
+
 .. code-block:: console
 
    curl -LsSf https://astral.sh/uv/install.sh | sh
