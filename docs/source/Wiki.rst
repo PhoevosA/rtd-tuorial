@@ -56,8 +56,3 @@ Testing Guides
   :glob:
 
   Testing Guides/*
-
-Extra links/test pages
-^^^^^^^^^^^^^^^^^^^^^^
-
-
