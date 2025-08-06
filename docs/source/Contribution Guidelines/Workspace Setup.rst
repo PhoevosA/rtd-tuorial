@@ -53,7 +53,7 @@ Create a new branch
 Configure your workspace
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-1. Detailed steps for configuring SPLICE workspace can be found in the :doc:`link <docs/sources/extra/Configure Workspace.rst>`.
+1. Detailed steps for configuring SPLICE workspace can be found in the :doc:`link <docs/sources/extra/Configure Workspace>`.
 
 Add you code and commit changes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -92,4 +92,4 @@ Create a pull request
 5. Review the changes and add a descriptive title and comment for your pull request.
 6. Click on the "Create pull request" button to submit your changes for review.
 
-You can find more details on our PR guidelines :doc:`here <docs/source/Contribution Guidelines/Pull Request (PR) Guidelines.rst>`
+You can find more details on our PR guidelines :doc:`here <Pull Request (PR) Guidelines>`
