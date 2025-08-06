@@ -13,7 +13,7 @@ Contribution Guidelines
 .. toctree::
   :maxdepth: 1
 
-  Getting Started
+  Configure workspace
   
   
 
