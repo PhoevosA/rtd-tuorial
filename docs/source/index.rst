@@ -1,5 +1,5 @@
-Welcome to SPLICE's documentation!
-===================================
+SPLICE Documentation
+====================
 
 **SPLICE** (Scientific Platform for Life sciences data Integration, Collaboration and Exploration) is a data platform which supports the collection, storage, organisation, processing, analysis and visualisation of experimental data across research areas in life sciences. SPLICE is aimed at enhancing collaboration between researchers enabling easy alignment to FAIR data principles.
 
@@ -51,16 +51,20 @@ Usage
 -----
 ...
 
-
-Check out the wiki 
-
-.. toctree::
-   :maxdepth: 1
-
-   Wiki
-
 .. note::
 
    This project is under active development.
 
+.. toctree::
+ :maxdepth: 1 
+ :hidden:
+ :glob:
 
+ Wiki
+ SPLICE workspace setup guide <Contribution Guidelines/Workspace Setup>
+ Contribution Guidelines/*
+ Installation/*
+ Naming Standards/*
+ System Infrastructure/*
+ Testing Guides/*
+ extra/*
