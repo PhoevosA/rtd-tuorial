@@ -1,5 +1,5 @@
-Getting Started
-===============
+Configure workspace
+===================
 
 .. _setupGuide:
 
