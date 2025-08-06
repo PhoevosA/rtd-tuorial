@@ -60,9 +60,10 @@ Usage
  :hidden:
  :glob:
 
- *
+ Wiki
  Contribution Guidelines/*
  Installation/*
  Naming Standards/*
  System Infrastructure/*
  Testing Guides/*
+ extra/*
