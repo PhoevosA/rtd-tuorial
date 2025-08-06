@@ -51,14 +51,6 @@ Usage
 -----
 ...
 
-
-Check out the wiki 
-
-.. toctree::
-   :maxdepth: 1
-
-   Wiki
-
 .. note::
 
    This project is under active development.
