@@ -53,7 +53,7 @@ Create a new branch
 Configure your workspace
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-1. Detailed steps for configuring SPLICE workspace can be found in the :doc:`link <../extra/Configure Workspace>`.
+1. Detailed steps for configuring SPLICE workspace can be found in the :doc:`link <docs/source/extra/Configure workspace.rst>`.
 
 Add you code and commit changes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
