@@ -57,7 +57,7 @@ Testing Guides
 
   Testing Guides/*
 
-Extra links
+Extra links/test pages
 
 .. toctree::
   :maxdepth: 1 
