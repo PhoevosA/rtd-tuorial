@@ -46,7 +46,7 @@ Create a new branch
 
 .. code-block:: console 
 
-  git checkout -b my-faeture-branch
+  git checkout -b my-feature-branch
 
 3. When you raise a pull request, your code will be merged into the codebase based on the branching convention and rule sets. Find out more details on our branching convention and rule set here (page not made yet).
 
@@ -92,4 +92,4 @@ Create a pull request
 5. Review the changes and add a descriptive title and comment for your pull request.
 6. Click on the "Create pull request" button to submit your changes for review.
 
-You can find more details on our PR guidelines :doc:`here <Pull Request (PR) Guidelines>`
+You can find more details on our PR guidelines :doc:`here <Pull Request (PR) Guidelines>`.
