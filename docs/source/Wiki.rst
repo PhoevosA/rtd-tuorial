@@ -24,20 +24,44 @@ Installation
 ^^^^^^^^^^^^
 .. toctree::
   :maxdepth: 1
+  :glob:
 
-  Configure workspace
-  api
+  Installation/*
+  
 
 Naming Standards
 ^^^^^^^^^^^^^^^^
 
 .. toctree::
   :maxdepth: 1
+  :glob:
 
-  test
+  Naming Standards/*
+  
 
 System Infrastructure
 ^^^^^^^^^^^^^^^^^^^^^
 
+.. toctree::
+  :maxdepth: 1
+  :glob:
+
+  System Infrastructure/*
+
 Testing Guides
 ^^^^^^^^^^^^^^
+
+.. toctree::
+  :maxdepth: 1
+  :glob:
+
+  Testing Guides/*
+
+Extra links
+
+.. toctree::
+  :maxdepth: 1 
+
+  Configure workspace
+  api
+  test
