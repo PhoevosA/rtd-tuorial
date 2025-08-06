@@ -63,4 +63,10 @@ Check out the wiki
 
    This project is under active development.
 
+.. toctree::
+  :maxdepth: 1 
+  :hidden:
 
+  Configure workspace
+  api
+  test
