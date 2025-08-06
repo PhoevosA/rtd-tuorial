@@ -61,6 +61,7 @@ Usage
  :glob:
 
  Wiki
+ SPLICE workspace setup guide <Contribution Guidelines/Workspace Setup>
  Contribution Guidelines/*
  Installation/*
  Naming Standards/*
