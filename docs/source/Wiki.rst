@@ -12,8 +12,11 @@ Contribution Guidelines
 ^^^^^^^^^^^^^^^^^^^^^^^
 .. toctree::
   :maxdepth: 1
+  :glob:
 
-  Configure workspace
+  Contribution Guidelines/*
+
+  
   
   
 
@@ -22,6 +25,7 @@ Installation
 .. toctree::
   :maxdepth: 1
 
+  Configure workspace
   api
 
 Naming Standards
