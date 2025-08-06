@@ -78,7 +78,7 @@ Add you code and commit changes
 
 OR
 
-.. codeblock:: console
+.. code-block:: console
 
   got push origin my-feature-branch # in case of new branch
 
