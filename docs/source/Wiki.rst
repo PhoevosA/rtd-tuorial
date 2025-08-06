@@ -56,13 +56,3 @@ Testing Guides
   :glob:
 
   Testing Guides/*
-
-Extra links/test pages
-^^^^^^^^^^^^^^^^^^^^^^
-
-.. toctree::
-  :maxdepth: 1 
-
-  Configure workspace
-  api
-  test

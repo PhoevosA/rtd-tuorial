@@ -51,16 +51,18 @@ Usage
 -----
 ...
 
-
-Check out the wiki 
-
-.. toctree::
-   :maxdepth: 1
-
-   Wiki
-
 .. note::
 
    This project is under active development.
 
+.. toctree::
+ :maxdepth: 1 
+ :hidden:
+ :glob:
 
+ *
+ Contribution Guidelines/*
+ Installation/*
+ Naming Standards/*
+ System Infrastructure/*
+ Testing Guides/*
