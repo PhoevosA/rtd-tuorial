@@ -92,4 +92,4 @@ Create a pull request
 5. Review the changes and add a descriptive title and comment for your pull request.
 6. Click on the "Create pull request" button to submit your changes for review.
 
-You can find more details on our PR guidelines :ref:`here <Pull Request (PR) Guidelines.rst>`
+You can find more details on our PR guidelines :ref:`here <../Pull Request (PR) Guidelines.rst>`
