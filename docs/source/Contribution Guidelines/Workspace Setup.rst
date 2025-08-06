@@ -48,7 +48,7 @@ Create a new branch
 
   git checkout -b my-feature-branch
 
-3. When you raise a pull request, your code will be merged into the codebase based on the branching convention and rule sets. Find out more details on our branching convention and rule set here (page not made yet).
+3. When you raise a pull request, your code will be merged into the codebase based on the branching convention and rule sets. Find out more details on our branching convention and rule set :doc:`here <Branching Convention>`.
 
 Configure your workspace
 ^^^^^^^^^^^^^^^^^^^^^^^^
