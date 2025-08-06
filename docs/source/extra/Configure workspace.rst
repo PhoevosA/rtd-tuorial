@@ -1,3 +1,5 @@
+.. _configureWorkspace:
+
 Configure workspace
 ===================
 
