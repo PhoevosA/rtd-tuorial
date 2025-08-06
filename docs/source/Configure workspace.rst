@@ -1,5 +1,5 @@
 Configure workspace
-===============
+===================
 
 .. _setupGuide:
 
